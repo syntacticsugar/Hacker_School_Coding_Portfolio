@@ -1,0 +1,125 @@
+{
+  "portfolio": [
+  {
+    "subject": "Javascript/HTML5/Canvas"
+  , "projects": [
+      { "title": "Harmonic Oscillations 1: Gilded Heart (page) (code)"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "img/ss_gilded_heart.png"
+        }
+      }
+    , { "title": "Harmonic Oscillations 2: Alien Wave"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "img/espresso.jpg"
+        }
+      }
+    , { "title": "James Conway's Game of Life: Ashes"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Swarm Algorithm: Flight of the Bumblebees"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    ]
+  }
+, {
+    "subject": "Ruby"
+  , "projects": [
+      { "title": "Alonzo Church Encoding"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Functional Primitives"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Ruby 3"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    ]
+  }
+, {
+    "subject": "Back-end"
+  , "projects": [
+      { "title": "Moodphile"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Functional Primitives"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "This website 3"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    ]
+  }
+, {
+    "subject": "Mathematics"
+  , "projects": [
+      { "title": "Project Euler"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Gelfand"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    , { "title": "Math exercises"
+      , "links": {
+          "source": "http://github.com/1.js"
+        , "page": "http://io.io/1.html"
+        , "pic": "carrot.jpg"
+        }
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+]
+}
