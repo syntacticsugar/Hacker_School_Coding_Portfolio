@@ -21,14 +21,14 @@
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Swarm Algorithm: Flight of the Bumblebees"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     ]
@@ -40,21 +40,21 @@
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Functional Primitives"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Ruby 3"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     ]
@@ -66,21 +66,21 @@
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Functional Primitives"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "This website 3"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     ]
@@ -92,21 +92,21 @@
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Gelfand"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     , { "title": "Math exercises"
       , "links": {
           "source": "http://github.com/1.js"
         , "page": "http://io.io/1.html"
-        , "pic": "carrot.jpg"
+        , "pic": "carrot.png"
         }
       }
     ]
