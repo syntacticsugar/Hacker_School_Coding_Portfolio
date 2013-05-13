@@ -167,12 +167,16 @@ h1:hover{
 
 #projects ol,li {
   font-family: 'DroidSansRegular';
-  color: #dcf0f1;
+  color: #b7e9e8;
   margin-left: 25px;
   font-size: 17px;
   letter-spacing: 0.05em;
   text-shadow: 1px 1px 1px #000;
   width: 100%;
+}
+#projects li:hover {
+  color: #5ad0cd;
+  text-shadow: 3px 3px 11px #001d1f;
 }
 
 .individual {
