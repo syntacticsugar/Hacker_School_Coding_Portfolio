@@ -24,7 +24,7 @@ body {
   background-image: linear-gradient(to bottom, #00686B 0%, #011A1B 100%);
   background: #00686b url("../img/beakers_bg.jpg") repeat-x bottom left;
   background-attachment: fixed;
-  /* background-position: center; */
+  background-position: center;
 }
 #hip_hop_wrapper {
   width: 960px;
