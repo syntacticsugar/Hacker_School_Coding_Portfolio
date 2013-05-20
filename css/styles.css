@@ -165,7 +165,7 @@ h1:hover{
 /** how to limit width? **/
 /** we did it via adding styles to list-item instead of ol **/
 
-#projects ol,li {
+#projects ol,li,a {
   font-family: 'DroidSansRegular';
   color: #b7e9e8;
   margin-left: 25px;
@@ -174,7 +174,7 @@ h1:hover{
   text-shadow: 1px 1px 1px #000;
   width: 100%;
 }
-#projects li:hover {
+#projects li:hover,a:hover {
   color: #5ad0cd;
   text-shadow: 3px 3px 11px #001d1f;
 }

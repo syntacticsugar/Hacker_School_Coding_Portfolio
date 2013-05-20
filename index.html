@@ -72,7 +72,9 @@
         <ol>
           {{#each projects}} 
           <li>
-          <span class="individual" data-index="{{@index}}"> {{title}} </span>
+          <span class="individual" data-index="{{@index}}">
+            <a href="{{links.page}}">{{title}}</a>
+          </span>
           </li>
           {{/each}}
         </ol>
