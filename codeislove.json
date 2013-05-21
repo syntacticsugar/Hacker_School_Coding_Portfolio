@@ -13,7 +13,7 @@
     , { "title": "Harmonic Oscillations 2: Alien Wave"
       , "links": {
           "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+        , "page": "#"
         , "pic": "img/ss_alien_wave.jpg"
         }
       }
@@ -27,7 +27,7 @@
     , { "title": "Swarm Algorithm: Flight of the Bumblebees"
       , "links": {
           "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+        , "page": "#"
         , "pic": "img/ss_swarm.jpg"
         }
       }
@@ -38,22 +38,22 @@
   , "projects": [
       { "title": "Alonzo Church Encoding"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
-        , "pic": "img/carrot.png"
+          "source": "#"
+        , "page": "#"
+        , "pic": "img/ss_church.png"
         }
       }
     , { "title": "Functional Primitives"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+          "source": "#"
+        , "page": "#"
         , "pic": "img/carrot.png"
         }
       }
     , { "title": "Ruby 3"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+          "source": "#"
+        , "page": "#"
         , "pic": "img/carrot.png"
         }
       }
@@ -64,22 +64,22 @@
   , "projects": [
       { "title": "Moodphile"
       , "links": {
-          "source": "http://github.com/1.js"
+          "source": "#"
         , "page": "http://io.io/1.html"
         , "pic": "img/carrot.png"
         }
       }
     , { "title": "Functional Primitives"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+          "source": "#"
+        , "page": "#"
         , "pic": "img/carrot.png"
         }
       }
     , { "title": "This website"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+          "source": "#"
+        , "page": "#"
         , "pic": "img/carrot.png"
         }
       }
@@ -90,9 +90,9 @@
   , "projects": [
       { "title": "Project Euler"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
-        , "pic": "img/carrot.png"
+          "source": "#"
+        , "page": "#"
+        , "pic": "img/ss_project_euler.gif"
         }
       }
     , { "title": "Gelfand"
