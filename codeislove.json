@@ -10,13 +10,6 @@
         , "pic": "img/ss_gilded_heart.png"
         }
       }
-    , { "title": "Harmonic Oscillations 2: Alien Wave"
-      , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "#"
-        , "pic": "img/ss_alien_wave.jpg"
-        }
-      }
     , { "title": "James Conway's Game of Life: Ashes"
       , "links": {
           "source": "http://github.com/1.js"
@@ -24,63 +17,42 @@
         , "pic": "img/ss_gol.jpg"
         }
       }
-    , { "title": "Swarm Algorithm: Flight of the Bumblebees"
-      , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "#"
-        , "pic": "img/ss_swarm.jpg"
-        }
-      }
     ]
   }
 , {
-    "subject": "Ruby"
+    "subject": "Computer Science"
   , "projects": [
       { "title": "Alonzo Church Encoding"
       , "links": {
           "source": "#"
-        , "page": "#"
+        , "page": "https://gist.github.com/syntacticsugar/7592537"
         , "pic": "img/ss_church.png"
         }
       }
-    , { "title": "Functional Primitives"
+    , { "title": "Sorting Algorithms"
       , "links": {
           "source": "#"
-        , "page": "#"
-        , "pic": "img/carrot.png"
-        }
-      }
-    , { "title": "Ruby 3"
-      , "links": {
-          "source": "#"
-        , "page": "#"
-        , "pic": "img/carrot.png"
+        , "page": "https://github.com/syntacticsugar/hs_interview_questions/tree/master/sorting"
+        , "pic": "img/ss_merge_sort.gif"
         }
       }
     ]
   }
 , {
-    "subject": "Back-end"
+    "subject": "Back-end (work-in-progress)"
   , "projects": [
       { "title": "Moodphile"
       , "links": {
           "source": "#"
-        , "page": "http://io.io/1.html"
-        , "pic": "img/carrot.png"
+        , "page": "http://moodphile.herokuapp.com"
+        , "pic": "img/ss_moodphile.jpg"
         }
       }
-    , { "title": "Functional Primitives"
+    , { "title": "Scent Library"
       , "links": {
           "source": "#"
-        , "page": "#"
-        , "pic": "img/carrot.png"
-        }
-      }
-    , { "title": "This website"
-      , "links": {
-          "source": "#"
-        , "page": "#"
-        , "pic": "img/carrot.png"
+        , "page": "http://scentlibrary.herokuapp.com"
+        , "pic": "img/ss_scentlibrary.gif"
         }
       }
     ]
@@ -91,7 +63,7 @@
       { "title": "Project Euler"
       , "links": {
           "source": "#"
-        , "page": "#"
+        , "page": "https://github.com/syntacticsugar/project_euler"
         , "pic": "img/ss_project_euler.gif"
         }
       }
