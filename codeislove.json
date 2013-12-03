@@ -17,6 +17,13 @@
         , "pic": "img/ss_gol.jpg"
         }
       }
+    , { "title": "Simple Mandelbrot Fractal"
+      , "links": {
+          "source": "javascript/1_first_mandelbrot.html"
+        , "page": "javascript/1_first_mandelbrot.html"
+        , "pic": "img/ss_fractal.gif"
+        }
+      }
     ]
   }
 , {
@@ -36,6 +43,14 @@
         , "pic": "img/ss_merge_sort.gif"
         }
       }
+    , { "title": "Defining Functional Primitives"
+      , "links": {
+          "source": "#"
+        , "page": "https://github.com/syntacticsugar/hs_interview_questions/tree/master/sorting"
+        , "pic": "img/ss_functional_primitives_ruby.gif"
+        }
+      }
+
     ]
   }
 , {
