@@ -64,20 +64,13 @@
       , "links": {
           "source": "#"
         , "page": "https://github.com/syntacticsugar/project_euler"
-        , "pic": "img/ss_project_euler.gif"
+        , "pic": ""
         }
       }
-    , { "title": "Gelfand"
+    , { "title": "Israel Gelfand/math exercises"
       , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
-        , "pic": "img/carrot.png"
-        }
-      }
-    , { "title": "Math exercises"
-      , "links": {
-          "source": "http://github.com/1.js"
-        , "page": "http://io.io/1.html"
+          "source": ""
+        , "page": ""
         , "pic": "img/carrot.png"
         }
       }

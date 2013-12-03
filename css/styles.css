@@ -110,7 +110,9 @@ body {
   background-color: #000;
   color: #ea5be1;
 }
+
 h1 {
+  float:left;
   background-image: url("../img/logo.png");
   cursor: pointer;
   repeat: no-repeat;
@@ -124,11 +126,37 @@ h1 {
   overflow: hidden;
 }
 
-h1:hover{
+h1:hover {
   background-color: #000;
 }
 
+.portfolio-links ul {
+  float:left;
+  margin-left: -40px;
+  margin-top: 10px;
+}
+
+.portfolio-links ul li, .portfolio-links a {
+  display: block;
+  font-family: 'lauren_c._brownregular';
+  font-weight: 100;
+  color: #9cd71d;  /* neon green */
+  font-size: 22px;
+  line-height: 24px;
+
+  text-shadow: 1px 1px 1px #000;
+  letter-spacing: 0.06em;
+
+}
+
+.portfolio-links a:hover {
+  color: #b7f03b; /* brighter green */
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #000;
+}
+
 #projects {
+  clear: both;
   margin-top: 2%;
   margin-left: 5%;
 }
@@ -154,7 +182,7 @@ h1:hover{
   margin: 0;
 }
 
-#projects h2:hover{
+#projects h2:hover {
   background: #012f32;
   color: #b7f03b; /* brighter green */
   border-bottom: 2px solid #000;
@@ -186,7 +214,7 @@ h1:hover{
 .screenshot {
   width: 600px;
   position: absolute;
-  top: 100px;
+  top: 120px;
   left: 45%;
 }
 
