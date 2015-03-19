@@ -24,6 +24,13 @@
         , "pic": "img/ss_fractal.gif"
         }
       }
+    , { "title": "Basic Calculator"
+      , "links": {
+          "source": "https://github.com/syntacticsugar/hackerschool/tree/master/projects/calculator_cattie"
+        , "page": "projects/calculator_cattie"
+        , "pic": "img/ss_cattie.gif"
+        }
+      }
     ]
   }
 , {
