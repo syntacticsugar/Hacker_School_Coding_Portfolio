@@ -1,3 +1,5 @@
+[Coding Cornucopia](http://syntacticsugar.github.io/hackerschool/)
+
 # Hacker School Projects
 
 ### "Never graduate." -Nicholas Bergson-Shilcock, of Hacker School
