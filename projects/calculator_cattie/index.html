@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+<head>
+    <link href="pure-min.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
+    <!--<![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>basic javascript calculator</title>
+    <style>
+        body {
+            background-color: whitesmoke;
+            font-family: "roboto";
+        }
+        #wrapper {
+            margin: 0 auto;
+            width: 960px;
+        }
+        .pure-button-active, .pure-button:active {
+            box-shadow: 0 0 0 1px rgba(0,0,0,0.15) inset,0 0 16px rgba(0,0,0,.4) inset;
+        }
+        .calculator-wrapper {
+            display: inline-block;
+            float: left;
+            position: static;
+            font-size: 1.4em;
+            width: 400px;
+        }
+        .results {
+        }
+        .n {
+            border-radius: 35px;
+            padding: 1em 1.5em;
+            margin: 0.4em 0.2em;
+        }
+        .equalz {
+            color: mediumvioletred;
+            font-weight: 800;
+        }
+        .operation {
+            color: darkblue;
+            padding: 0.07em 0.5em;
+            font-size: xx-large;
+            font-size: 40px;
+        }
+        #results {
+            padding: 0.02em;
+            padding-top: 0.4em;
+            padding-right: 0.4em;
+            text-align: right;
+            width: 90%;
+            height: 1.8em;
+            background-color: rgba(0,0,0,0.9);
+                font-family: "courier";
+                color: chartreuse;
+                letter-spacing: 0.08em;
+                font-size: 1.4em;
+            border: 1px solid rgba();
+            border-radius: 15px;
+        }
+        .cattie {
+            color: navy;
+            width: 400px;
+            float: left;
+            position: absolute;
+            right: 10%;
+            bottom: 5%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='wrapper'>
+
+        <h3>Basic Javascript Calculcator</h3>
+        <p>Press the buttons below to perform simple mathematic calculations</p>
+        <section class='calculator-wrapper'>
+            <div id='results'></div>
+            <button id='_1' class="integer n pure-button">1</button>
+            <button id='_2' class="integer n pure-button">2</button>
+            <button id='_3' class="integer n pure-button">3</button>
+            <button id='plus' class="n operation pure-button">+</button>
+            <br/>
+            <button id='_4' class="integer n pure-button">4</button>
+            <button id='_5' class="integer n pure-button">5</button>
+            <button id='_6' class="integer n pure-button">6</button>
+            <button id='minus' class="n operation pure-button">-</button>
+            <br/>
+            <button id='_7' class="integer n pure-button">7</button>
+            <button id='_8' class="integer n pure-button">8</button>
+            <button id='_9' class="integer n pure-button">9</button>
+            <button id='multiply' class="n operation pure-button">*</button>
+            <br/>
+            <button id='_0' class="integer n pure-button">0</button>
+            <button id='equals' class="equalz n pure-button">===</button>
+            <button id='reset' class="n pure-button">c</button>
+            <button id='divide' class="n operation pure-button">/</button>
+            <br/>
+        </section>
+        <script type='text/javascript' src='jquery.min.js'></script>
+        <script type='text/javascript' src='logic.js'></script>
+        <section class='cattie'>
+            <pre>
+                _                        
+                \`*-.                    
+                 )  _`-.                 
+                .  : `. .                
+                : _   '  \               
+                ; *` _.   `*-._          
+                `-.-'          `-.       
+                  ;       `       `.     
+                  :.       .        \    
+                  . \  .   :   .-'   .   
+                  '  `+.;  ;  '      :   
+                  :  '  |    ;       ;-. 
+                  ; '   : :`-:     _.`* ;
+               .*' /  .*' ; .*`- +'  `*' 
+               `*-*   `*-*  `*-*'        
+            
+            </pre>
+        </section><!-- /.cattie -->
+    </div>
+</body>
+</html>
