@@ -5,8 +5,8 @@
   , "projects": [
       { "title": "Harmonic Oscillations 1: Gilded Heart"
       , "links": {
-          "source": "http://wry.me/puffpastry/gilded_heart.html"
-        , "page": "http://wry.me/puffpastry/gilded_heart.html"
+          "source": "https://github.com/syntacticsugar/hackerschool/blob/master/javascript/gilded_heart.js"
+        , "page": "http://syntacticsugar.github.io/hackerschool/javascript/gilded_heart.html"
         , "pic": "img/ss_gilded_heart.png"
         }
       }
